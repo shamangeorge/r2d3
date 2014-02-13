@@ -1,5 +1,5 @@
-var width = 500,
-    height = 300;
+var width = 700,
+    height = 500;
 
 var x = d3.scale.linear()
     .domain([0, 1])

@@ -1,0 +1,40 @@
+body, html {
+    font-family:"Balthazar", sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background: url(../img/background.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+}
+header {
+    font-size:20px;
+    color:white;
+}
+section {
+    position:relative;
+    margin-left: auto;
+    margin-right:auto;
+    width:500px;
+    padding:10px;
+}
+#audio {
+    margin-top:50px;
+}
+#cnvs {
+    border-top:2px dashed orange;
+    border-bottom:2px dashed orange;
+}
+canvas {
+}
+footer {
+    font-size:15px;
+}
